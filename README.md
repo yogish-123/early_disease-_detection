@@ -28,7 +28,7 @@ This project is an AI-powered system for early detection of poultry diseases usi
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/poultry-disease-detection.git
+git clone https://github.com/yogish-123/poultry-disease-detection.git
 cd poultry-disease-detection
 
 2️⃣ Install dependencies
